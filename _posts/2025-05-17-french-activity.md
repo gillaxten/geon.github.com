@@ -5,21 +5,16 @@ tags : [dyslexia, typoglycemia, Javascript]
 title: Dsxyliea
 ---
 
-
-A friend who has dyslexia described to me how she experiences reading. She *can* read, but it takes a lot of concentration, and the letters seems to "jump around".
-
-I remembered reading about [typoglycemia](https://en.wikipedia.org/wiki/Typoglycemia). Wouldn't it be possible to do it interactively on a website with Javascript? Sure it would.
-
-Feel like making a bookmarklet of this or something? [Fork it](https://github.com/geon/geon.github.com/blob/master/_posts/2016-03-03-dsxyliea.md) on github.
-
-> Dyslexia is characterized by difficulty with learning to read fluently and with accurate comprehension despite normal intelligence. This includes difficulty with phonological awareness, phonological decoding, processing speed, orthographic coding, auditory short-term memory, language skills/verbal comprehension, and/or rapid naming.
-
-> Developmental reading disorder (DRD) is the most common learning disability. Dyslexia is the most recognized of reading disorders, however not all reading disorders are linked to dyslexia.
-
-> Some see dyslexia as distinct from reading difficulties resulting from other causes, such as a non-neurological deficiency with vision or hearing, or poor or inadequate reading instruction. There are three proposed cognitive subtypes of dyslexia (auditory, visual and attentional), although individual cases of dyslexia are better explained by specific underlying neuropsychological deficits and co-occurring learning disabilities (e.g. attention-deficit/hyperactivity disorder, math disability, etc.). Although it is considered to be a receptive language-based learning disability in the research literature, dyslexia also affects one's expressive language skills. Researchers at MIT found that people with dyslexia exhibited impaired voice-recognition abilities.
-
-*Source: [Wikipedia](http://en.wikipedia.org/wiki/Dyslexia)*
-
+Vous avez onze guimauves et dix-neuf cure-dents pour bâtir une tour de quatre étages.
+Prenez quatre guimauves et quatre cure-dents pour faire votre base horizontale.
+Ajouter un cure-dents à chaque guimauve sur la verticale.
+Ajouter une guimauve au bout de chaque cure-dent.
+Ajouter quatre cure-dents dans les guimauves horizontalement pour créer un carré.
+Maintenant ajouter un cure-dent dans chaque guimauve verticalement.
+Ajouter une guimauve au bout de deux cure dent pour créer deux triangles.
+Ajouter un cure-dent verticalement dans les deux guimauves au haut du triangle.
+Ajouter un cure-dent horizontalement dans chaque guimauve.
+Ajouter un guimauve dans les 2 cure-dents pour compléter la tour.
 
 
 
