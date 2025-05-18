@@ -2,7 +2,7 @@
 layout: post
 category : Programming
 tags : [dyslexia, typoglycemia, Javascript]
-title: Dsxyliea
+title: Dsxyliea Guimauves
 ---
 
 Vous avez onze guimauves et dix-neuf cure-dents pour bâtir une tour de quatre étages.
