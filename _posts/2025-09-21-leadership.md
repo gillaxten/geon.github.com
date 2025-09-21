@@ -2,20 +2,15 @@
 layout: post
 category : Programming
 tags : [dyslexia, typoglycemia, Javascript]
-title: Dsxyliea Guimauves
+title: OPSEAU Leadership
 ---
 
-Vous avez onze guimauves et dix-neuf cure-dents pour bâtir une tour de quatre étages.
-Prenez quatre guimauves et quatre cure-dents pour faire votre base horizontale.
-Ajouter un cure-dents à chaque guimauve sur la verticale.
-Ajouter une guimauve au bout de chaque cure-dent.
-Ajouter quatre cure-dents dans les guimauves horizontalement pour créer un carré.
-Maintenant ajouter un cure-dent dans chaque guimauve verticalement.
-Ajouter une guimauve au bout de deux cure dent pour créer deux triangles.
-Ajouter un cure-dent verticalement dans les deux guimauves au haut du triangle.
-Ajouter un cure-dent horizontalement dans chaque guimauve.
-Ajouter un guimauve dans les 2 cure-dents pour compléter la tour.
+ACCESSIBILITY VS. ACCOMMODATION: A DEMAND FOR UNIVERSAL DESIGN
 
+Can you easily read this? Did you know that many people with print disabilities like dyslexia see the written world this way? No, we don't grow out of learning disabilities we just learn to mask and cope.
+
+
+DRC Member - Gillian Axten
 
 
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
